@@ -5,9 +5,9 @@
 
 <h3 align="center"> Full Stack Developer • Web Development Enthusiast • Competitive Programmer </h3>
 
-<p align="middle">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=F4B400&center=false&vCenter=true&width=600&lines=Full+Stack+Developer;Learning+React.js+%26+Node.js;Passionate+about+Competitive+Programming;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
-</p
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=F6C453&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Code;Learning+Something+New+Every+Day;Solving+Problems+One+Bug+at+a+Time;Building+Things+That+Matter" alt="Typing SVG" />
+</p>
 
 
 </td>
